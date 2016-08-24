@@ -1,2 +1,2 @@
 # CS644 - Web Computing
-This is all my class work.
+This is all my class work. All the applications that I built throughout the semester.
